@@ -1,0 +1,15 @@
+Models of Random Output
+
+Dice
+Deck of Cards
+
+Eight Ball
+Ouija Board
+Pendulum
+Tea Leaves
+Runes
+    People
+    Places
+    Things
+    Actions
+
